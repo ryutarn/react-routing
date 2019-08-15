@@ -9,6 +9,13 @@ HOME, 概要, ショップ, 商品詳細のページを作成。
 写経元ではAPIはトークン不要だったが、2019/8時点ではトークンが必要になっていたので、改変した。
 また、repoにpushする際にトークンをそのまま乗せるのは良くないのでdotenvを使用した。
 
+- API
+  - https://fortniteapi.com/
+- ライブラリ
+  - dotenv
+    -  https://github.com/motdotla/dotenv
+
+
 
 --- 
 
