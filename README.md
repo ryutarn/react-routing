@@ -1,3 +1,17 @@
+# react-routerのサンプル
+Reactのページ遷移についての写経。
+
+- 写経元の動画
+`https://www.youtube.com/watch?v=Law7wfdg_ls`
+
+HOME, 概要, ショップ, 商品詳細のページを作成。
+ショップで表示するアイテムはフォートナイトのアイテム。
+写経元ではAPIはトークン不要だったが、2019/8時点ではトークンが必要になっていたので、改変した。
+また、repoにpushする際にトークンをそのまま乗せるのは良くないのでdotenvを使用した。
+
+
+--- 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
